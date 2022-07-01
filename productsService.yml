@@ -1,2 +1,3 @@
 welcome:
   message: Welcome to Product-Microservice from GIT. 
+  allProductsUrl: http://localhost:8085/inventory/allProducts
