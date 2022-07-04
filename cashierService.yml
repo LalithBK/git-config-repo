@@ -1,5 +1,5 @@
 welcome:
   message: Welcome to Cashier-Microservice from GIT. Refreshing using Bus
-  allProductsUrl: http://localhost:8085/inventory/allProducts
+  updateInventoryUrl: http://localhost:8085/inventory/update
   productsByNameUrl: http://localhost:8085/inventory/productByName/
   productByIdUrl: http://localhost:8085/inventory/product/
