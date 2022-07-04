@@ -1,2 +1,3 @@
 welcome:
   message: Welcome to Inventory-Service from GITHub. Refreshing using cloud bus!
+  updateInventoryUrl: http://localhost:8087/cashier/update
