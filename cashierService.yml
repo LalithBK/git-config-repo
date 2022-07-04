@@ -1,0 +1,5 @@
+welcome:
+  message: Welcome to Cashier-Microservice from GIT. 
+  allProductsUrl: http://localhost:8085/inventory/allProducts
+  productsByNameUrl: http://localhost:8085/inventory/productByName/
+  productByIdUrl: http://localhost:8085/inventory/product/
