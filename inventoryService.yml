@@ -1,4 +1,4 @@
 welcome:
-  message: Welcome to Inventory-Service from GITHub. Acuator Refresh
+  message: Welcome to Inventory-Service from GITHub. Acuator Refresh!
   updateCashierUrl: http://localhost:8087/adminCashier/update
   addCashierUrl: http://localhost:8087/adminCashier/add
