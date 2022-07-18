@@ -1,5 +1,5 @@
 welcome:
-  message: Welcome to Product-Microservice from GIT. Actuator refresh! 
+  message: Welcome to Product-Microservice from GIT. Cloud refresh! 
   allProductsUrl: http://localhost:8085/inventory/allProducts
   productsByNameUrl: http://localhost:8085/inventory/productByName/
   productByIdUrl: http://localhost:8085/inventory/product/
