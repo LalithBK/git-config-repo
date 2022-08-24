@@ -2,3 +2,4 @@ welcome:
   message: Welcome to Inventory-Service from GITHub. 
   updateCashierUrl: http://localhost:8087/adminCashier/update
   addCashierUrl: http://localhost:8087/adminCashier/add
+  deleteCashierUrl: http://localhost:8087/adminCashier/delete
